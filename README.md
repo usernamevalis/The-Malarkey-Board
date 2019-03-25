@@ -1,6 +1,7 @@
 # The-Malarkey-Board
-Schematic and source code for the Malarkey Board
+Schematic for the Malarkey Board
 
-I'm in the process of just cleaning up the source code and will push it to the repo, along with schematic, as soon as its done.
+This schematic was done a long time ago, It doesn't look great and it's missing some detailts. 
+Feel free to get in touch to clarify anything.
 
 A big thanks to Tom Van Den Bon for help with the inital layout, as well as Bushveld Labs.
